@@ -1,8 +1,7 @@
 # DeathRow - A Windows Forms C# Game
 DeathRow - Um jogo feito em Windows Forms C#
 
-## Summary
-Índice
+## Summary / Índice
 
 1. [About / Sobre](#about-/-sobre)
 2. [Objective / Objetivo](#objective-/-objetivo)
