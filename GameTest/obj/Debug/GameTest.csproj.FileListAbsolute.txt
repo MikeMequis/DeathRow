@@ -1,0 +1,43 @@
+C:\Users\082220035\source\repos\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\082220035\source\repos\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\082220035\source\repos\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\082220035\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.AssemblyReference.cache
+C:\Users\082220035\source\repos\GameTest\GameTest\obj\Debug\GameTest.Form1.resources
+C:\Users\082220035\source\repos\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\082220035\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Users\082220035\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Users\082220035\source\repos\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\082220035\source\repos\GameTest\GameTest\obj\Debug\GameTest.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\obj\Debug\GameTest.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\obj\Debug\GameTest.FrmPrincipal.resources
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\obj\Debug\GameTest.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\FESA\Algoritmos II\GameTest\GameTest\obj\Debug\GameTest.FrmTutorial.resources
+C:\Users\082220035\Downloads\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\082220035\Downloads\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\082220035\Downloads\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\082220035\Downloads\GameTest\GameTest\obj\Debug\GameTest.csproj.AssemblyReference.cache
+C:\Users\082220035\Downloads\GameTest\GameTest\obj\Debug\GameTest.FrmPrincipal.resources
+C:\Users\082220035\Downloads\GameTest\GameTest\obj\Debug\GameTest.FrmTutorial.resources
+C:\Users\082220035\Downloads\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\082220035\Downloads\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Users\082220035\Downloads\GameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Users\082220035\Downloads\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\082220035\Downloads\GameTest\GameTest\obj\Debug\GameTest.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\obj\Debug\GameTest.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\obj\Debug\GameTest.FrmPrincipal.resources
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\obj\Debug\GameTest.FrmTutorial.resources
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\marce\OneDrive\Área de Trabalho\GameTest\GameTest\obj\Debug\GameTest.pdb
