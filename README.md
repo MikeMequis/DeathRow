@@ -3,12 +3,12 @@ DeathRow - Um jogo feito em Windows Forms C#
 
 ## Summary / Índice
 
-1. [About / Sobre](#about-/-sobre)
-2. [Objective / Objetivo](#objective-/-objetivo)
-3. [Final Minigame / Último Minigame](#final-minigame-/-ultimo-minigame)
-4. [Code Insights / Detalhes do Código](#code-insights-/-detalhes-do-codigo)
-   1. [First Part (Escape) / Primeira Parte](#first-part-(escape)-/-primeira-parte)
-   2. [Last Part (Duel) / Última Parte](#last-part-(duel)-/-ultima-parte)
+1. [About / Sobre](#about_/_sobre)
+2. [Objective / Objetivo](#objective_/_objetivo)
+3. [Final Minigame / Último Minigame](#final-minigame_/_ultimo-minigame)
+4. [Code Insights / Detalhes do Código](#code-insights_/_detalhes-do-codigo)
+   1. [First Part (Escape) / Primeira Parte](#first-part-(escape)_/_primeira-parte)
+   2. [Last Part (Duel) / Última Parte](#last-part-(duel)_/_ultima-parte)
 5. [Vídeo / Video](#video-/-video)
 
 ## About / Sobre
