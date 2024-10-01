@@ -9,7 +9,7 @@ DeathRow - Um jogo feito em Windows Forms C#
 4. [Code Insights/Detalhes do Código](#code-insightsdetalhes-do-código)
    1. [First Part (Escape)/Primeira Parte](#first-part-escapeprimeira-parte)
    2. [Last Part (Duel)/Última Parte](#last-part-duelúltima-parte)
-5. [Vídeo/Video](#vídeo--video)
+5. [Video](#video)
 
 ## About/Sobre
 Death Row is a text-based puzzle game where players control an inmate with a death penalty and needs to escape quickly. They can do this by navigating throughout the available locations in his map, interacting with different objects and points of interest and collecting different items to progress and keeping them in the player’s inventory. Our goal while making the game is to present a straightforward display so that it can be and accessible for many kinds of people, with easy-to-follow visual elements. It also features a ranking system at the end of the game to provide feedback about the player’s performance.
@@ -38,5 +38,5 @@ In the minigame’s case, the game code makes use of variables, pictures and arr
 
 No caso do minigame, o código do jogo faz uso de variáveis, imagens e arrays, junto com seus métodos. Os turnos do oponente oferecem ao jogador uma escolha aleatória da classe Random do .NET sempre que ele seleciona uma das opções. Outro método é chamado para determinar quem é o vencedor do turno, dependendo das circunstâncias, e aumenta sua pontuação, que, neste caso, são os golpes confirmados.
 
-## Vídeo/Video
+## Video
 [![Watch the video](https://img.youtube.com/vi/dHgyyThsXUY/maxresdefault.jpg)](https://youtu.be/dHgyyThsXUY)
