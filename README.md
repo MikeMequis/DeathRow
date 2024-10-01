@@ -3,13 +3,13 @@ DeathRow - Um jogo feito em Windows Forms C#
 
 ## Summary/Índice
 
-1. [About/Sobre](#about/sobre)
-2. [Objective/Objetivo](#objective/objetivo)
-3. [Final Minigame/Último Minigame](#final-minigame/ultimo-minigame)
-4. [Code Insights/Detalhes do Código](#code-insights/detalhes-do-codigo)
-   1. [First Part (Escape)/Primeira Parte](#first-part-(escape)/primeira-parte)
-   2. [Last Part (Duel)/Última Parte](#last-part-(duel)/ultima-parte)
-5. [Vídeo / Video](#video/video)
+1. [About/Sobre](#aboutsobre)
+2. [Objective/Objetivo](#objectiveobjetivo)
+3. [Final Minigame/Último Minigame](#final-minigameúltimo-minigame)
+4. [Code Insights/Detalhes do Código](#code-insightsdetalhes-do-código)
+   1. [First Part (Escape)/Primeira Parte](#first-part-escapeprimeira-parte)
+   2. [Last Part (Duel)/Última Parte](#last-part-duelúltima-parte)
+5. [Vídeo / Video](#vídeo--video)
 
 ## About/Sobre
 Death Row is a text-based puzzle game where players control an inmate with a death penalty and needs to escape quickly. They can do this by navigating throughout the available locations in his map, interacting with different objects and points of interest and collecting different items to progress and keeping them in the player’s inventory. Our goal while making the game is to present a straightforward display so that it can be and accessible for many kinds of people, with easy-to-follow visual elements. It also features a ranking system at the end of the game to provide feedback about the player’s performance.
